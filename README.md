@@ -1,17 +1,20 @@
-# Projeto Linktree 
+# Projeto Site Esportivo
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/danielmagina/read/blob/main/LICENSE) 
 
 # Sobre o projeto 
 
-link do projeto publicado:
-https://xxx
+Etapa 1 - Entrega do Wireframe (escopo da página main)
 
-Site linkxxx é uma aplicação full stack web e mobile construída durante o curso Full Stack Dev, é um projeto integrador exigido de forma reprobatória no curso Digital House.
+
+link do projeto publicado:
+https://miro.com/app/board/uXjVOcAkGO0=/
+
+Site de nome XX(a definir) é uma aplicação full stack web e mobile construída durante o curso Full Stack Dev, é um projeto integrador exigido de forma reprobatória no curso Digital House.
 
 A aplicação consiste em aplicar links em xxxxxxx.
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](https://miro.com/app/board/uXjVOcAkGO0=/)
 
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
@@ -73,7 +76,6 @@ yarn start
 
 # Autores
 
-Daniel,Felipe,Lucas,Altair,Helder e Robert
-
+Daniel Magina ,Jonathan Fernandes, Lucas Rocha, Luis Duarte, Gerciano e Andrey Ventura. 
 https://www.xxxxxx
 
