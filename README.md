@@ -3,44 +3,39 @@
 
 # Sobre o projeto 
 
+Site de nome XX(a definir) é uma aplicação full stack web e mobile construída durante o curso Full Stack Dev, é um projeto integrador exigido de forma reprobatória no curso Digital House.
+
+A aplicação consiste em aplicar links em xxxxxxx.
+
 Etapa 1 - Entrega do Wireframe (escopo da página main)
 
 
 link do projeto publicado:
 https://miro.com/app/board/uXjVOcAkGO0=/
 
-Site de nome XX(a definir) é uma aplicação full stack web e mobile construída durante o curso Full Stack Dev, é um projeto integrador exigido de forma reprobatória no curso Digital House.
 
-A aplicação consiste em aplicar links em xxxxxxx.
+## Layout Miro em Jpeg
+![novoWire](https://user-images.githubusercontent.com/86272539/145629974-dce5c408-6d41-4f93-9456-0054cb39142f.jpg)
 
-## Layout mobile
-![Mobile 1](https://miro.com/app/board/uXjVOcAkGO0=/)
+Etapa 2 
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+A definir..
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
-# Tecnologias utilizadas
+# Tecnologias utilizadas 
 ## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+- JavaScript
+- ....
+- .....
+- .....
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML / CSS / JS / 
 - ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
+- ....
+- ....
+- ....
+.
 # Como executar o projeto
 
 ## Back end
@@ -50,29 +45,14 @@ Pré-requisitos: Java 11
 # clonar repositório
 git clone https://github.com/devsuperior/sds1-wmazoni
 
-# entrar na pasta do projeto back end
-cd backend
+# entrar na pasta do projeto 
+cd ......
 
 # executar o projeto
-./mvnw spring-boot:run
+./........
 ```
 
-## Front end web
-Pré-requisitos: npm / yarn
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
 
 # Autores
 
