@@ -43,7 +43,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/danielmagina/read.git
 
 # entrar na pasta do projeto 
 cd ......
