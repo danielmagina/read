@@ -11,7 +11,7 @@ Etapa 1 - Entrega do Wireframe (escopo da página main)
 
 
 link do projeto publicado:
-https://miro.com/app/board/uXjVOcAkGO0=/
+https://www.figma.com/file/Cm01BdkvTXZpOn3Rc2jYqW/EletriCar-Final
 
 
 ## Layout Miro em Jpeg
