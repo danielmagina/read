@@ -15,7 +15,9 @@ https://miro.com/app/board/uXjVOcAkGO0=/
 
 
 ## Layout Miro em Jpeg
-![novoWire](https://user-images.githubusercontent.com/86272539/145629974-dce5c408-6d41-4f93-9456-0054cb39142f.jpg)
+![wire1](https://user-images.githubusercontent.com/86272539/153056116-9e946b4a-9c37-49c6-8bd8-0f574837149f.png)
+
+![wire2](https://user-images.githubusercontent.com/86272539/153056753-5a6f5b6c-ee2f-4dd5-a3a4-f8dc4645e6f9.png)
 
 Etapa 2 
 
