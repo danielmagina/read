@@ -1,11 +1,11 @@
-# Projeto Site Esportivo
+# Projeto Site de Veículos
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/danielmagina/read/blob/main/LICENSE) 
 
 # Sobre o projeto 
 
-Site de nome XX(a definir) é uma aplicação full stack web e mobile construída durante o curso Full Stack Dev, é um projeto integrador exigido de forma reprobatória no curso Digital House.
+Site Eletricar é uma aplicação full stack web e mobile construída durante o curso Full Stack Dev, é um projeto integrador exigido de forma reprobatória no curso Digital House.
 
-A aplicação consiste em aplicar links em xxxxxxx.
+A aplicação consiste em aplicação de várias ferramentas.
 
 Etapa 1 - Entrega do Wireframe (escopo da página main)
 
