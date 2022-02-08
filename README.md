@@ -52,7 +52,80 @@ cd ......
 ./........
 ```
 
+## 🤝 Colaboradores
 
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/82612638?v=4" width="100px;" alt="Foto do Luis no GitHub"/><br>
+        <sub>
+          <b>Luis Dandolini</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/86272539?v=4" width="100px;" alt="Foto do Daniel no GitHub"/><br>
+        <sub>
+          <b>Daniel Magina</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/95543607?v=4" width="100px;" alt="Foto do Lucas Rocha no GitHub"/><br>
+        <sub>
+          <b>Lucas Rocha</b>
+        </sub>
+      </a>
+       <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/93499268?v=4" width="100px;" alt="Foto do Jonathan no GitHub"/><br>
+        <sub>
+          <b>Jonathan Fernandes</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/93199019?v=4" width="100px;" alt="Foto do Andrey no GitHub"/><br>
+        <sub>
+          <b>Andrey Ventura</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/94568299?v=4" width="100px;" alt="Foto do Gerciano no GitHub"/><br>
+        <sub>
+          <b>Gerciano</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://br.digitalhouse.com/wp-content/uploads/2018/02/dh-coding-school-logo.jpg" width="100px;" alt="Foto da Digital House"/><br>
+        <sub>
+          <b>Não podemos deixar de agradecer também a instituição e aos professores<br> xxxxx que foram essenciais para o desenvolvimento
+          do projeto.</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  </table>
+
+
+## 📝 Licença
+
+Esse projeto está sob licença do MIT. Veja o arquivo [LICENÇA](https://github.com/danielmagina/read/blob/main/LICENSE) para mais detalhes.
 
 # Autores
 
